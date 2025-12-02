@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Daniel Onyebuchi
 
-<!--
-**0xSlowbug/0xSlowbug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔒 **Security Researcher @ [Quill Audits](https://quillaudits.com)**
+*(I specialize in smart contract security, blockchain auditing, and vulnerability research.)*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🛡️ Smart Contract Auditor  
+- 🧪 Security Researcher  
+- 🔍 Focused on exploit analysis, fuzzing, static analysis, and DeFi security  
+- ✍️ Technical writer contributing to blockchain security knowledge  
+
+---
+
+## 🧰 Tech Stack
+- **Languages:** Solidity, TypeScript, JavaScript  
+- **Tools:** Foundry, Hardhat, Slither, Echidna, Oyente  
+- **Domains:** DeFi,  AMMs, yield, staking, lending and borrowing, launchpads
+
+
+---
+
+## 📫 Reach Me  
+- [LinkedIn](https://www.linkedin.com/in/onudanielonyebuchi/)
+- [X](https://x.com/0xSlowbug)
+- [Portfolio](https://audits.sherlock.xyz/watson/0xSlowbug)
+
+---
