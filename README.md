@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Daniel Onyebuchi
+# 👋 Hi, I'm 0xSlowbug
 
 ### 🔒 **Security Researcher @ [Quill Audits](https://quillaudits.com)**
 *(I specialize in smart contract security, blockchain auditing, and vulnerability research.)*
