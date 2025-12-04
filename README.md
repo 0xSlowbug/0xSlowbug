@@ -13,17 +13,42 @@
 
 ---
 
-## 🧰 Tech Stack
-- **Languages:** Solidity, TypeScript, JavaScript  
-- **Tools:** Foundry, Hardhat, Slither, Echidna, Oyente  
-- **Domains:** DeFi,  AMMs, yield, staking, lending and borrowing, launchpads
+# 🧠 Skills
 
+- Languages: **Solidity**, **Move**, TypeScript, JavaScript
+- Tools: Foundry, Hardhat, Slither, Echidna
+- **Technical Writing**
+
+---
+
+## 💼 Areas of Expertise
+I've audited projects in the following categories:
+
+* Lending & Borrowing
+* Synthetic Tokens
+* Vaults & Yield Aggregators
+* AMMs (Automated Market Makers)
+* Vesting
+* Staking
+* Launchpads
+
+I'm proficient in auditing Solidity codebases across the different EVM chains
+
+---
+
+## 🏆 Highlights
+
+| Project         | Platform   | Placement | Findings | Report |
+|-----------------|------------|-----------|----------|--------|
+| Usual ETH0      | Sherlock   | 🥇 1st    | 1 Medium | [Link](https://audits.sherlock.xyz/contests/988/report) |
+| Neutrl Protocol | Sherlock   | 🥇 1st    | 1 Medium | [Link](https://audits.sherlock.xyz/contests/1065/report) |
+| ThorWallet      | Code4rena  | 🥉 3rd    | 1 High   | [Link](https://audits.sherlock.xyz/contests/988/report) |
 
 ---
 
 ## 📫 Reach Me  
 - [LinkedIn](https://www.linkedin.com/in/onudanielonyebuchi/)
 - [X](https://x.com/0xSlowbug)
-- [Portfolio](https://audits.sherlock.xyz/watson/0xSlowbug)
+- [Portfolio](https://github.com/0xSlowbug/audit-portfolio)
 
 ---
