@@ -1,15 +1,14 @@
 # 👋 Hi, I'm 0xSlowbug
 
-### 🔒 **Security Researcher @ [Quill Audits](https://quillaudits.com)**
-*(I specialize in smart contract security, blockchain auditing, and vulnerability research.)*
-
 ---
 
 ## 🚀 About Me
 - 🛡️ Smart Contract Auditor  
-- 🧪 Security Researcher  
 - 🔍 Focused on exploit analysis, fuzzing, static analysis, and DeFi security  
-- ✍️ Technical writer contributing to blockchain security knowledge  
+- ✍️ Technical writer contributing to blockchain security knowledge
+
+### 🔒 **Security Researcher @[Quill Audits](https://quillaudits.com)**
+*I specialize in smart contract security, blockchain auditing, and vulnerability research.*
 
 ---
 
@@ -31,8 +30,8 @@ I've audited projects in the following categories:
 * Vesting
 * Staking
 * Launchpads
-
-I'm proficient in auditing Solidity codebases across the different EVM chains
+  
+I'm proficient in auditing Solidity codebases across the different EVM chains. Here's my [Portfolio](https://github.com/0xSlowbug/audit-portfolio)
 
 ---
 
@@ -49,6 +48,6 @@ I'm proficient in auditing Solidity codebases across the different EVM chains
 ## 📫 Reach Me  
 - [LinkedIn](https://www.linkedin.com/in/onudanielonyebuchi/)
 - [X](https://x.com/0xSlowbug)
-- [Portfolio](https://github.com/0xSlowbug/audit-portfolio)
+
 
 ---
